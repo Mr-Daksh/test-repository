@@ -1,2 +1,3 @@
-# test-repository
-This is a second Example.
+# My very first Repo
+
+Learning Website development from Kalob is really a fun.
